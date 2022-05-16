@@ -7,5 +7,8 @@ PPT
 EXCEL
 JPEG
 
+Beans
+Pizza
+
 
 Thank you
